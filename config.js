@@ -51,9 +51,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Messenger',
-      icon: 'message-circle',
-      link: 'https://messenger.com/',
+      name: 'Netflix',
+      icon: 'film',
+      link: 'https://netflix.com/',
     },
     {
       id: '2',
@@ -111,8 +111,8 @@ const CONFIG = {
         link: 'https://www.messenger.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Crunchyroll',
+        link: 'https://crunchyroll.com',
       },
     ],
     secondList: [
