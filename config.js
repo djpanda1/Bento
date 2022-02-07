@@ -92,23 +92,23 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'bookmark',
-  secondListIcon: 'coffee',
+  firstListIcon: 'coffee',
+  secondListIcon: 'trello',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Radiooooo',
+        link: 'https://radiooooo.com/#',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'KTT2',
+        link: 'https://ktt2.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Messenger',
+        link: 'https://www.messenger.com',
       },
       {
         name: 'Rock',
@@ -117,16 +117,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'AP News',
+        link: 'https://apnews.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Reuters',
+        link: 'https://www.reuters.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Politico',
+        link: 'https://www.politico.com/',
       },
       {
         name: 'Telegram',
